@@ -2,6 +2,8 @@
 
 Bondi Bot es un chatbot inteligente que te ayuda a moverte por la Ciudad de Buenos Aires usando transporte público. Te sugiere rutas óptimas combinando la API de Google Maps con un modelo de lenguaje gratuito (Groq / LLaMA 3).
 
+📖 [English version](./README.en.md)
+
 ---
 
 ## 🚀 Funcionalidades
