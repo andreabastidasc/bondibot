@@ -1,4 +1,4 @@
-from langchain_community.chat_models import ChatGroq
+from langchain_groq import ChatGroq
 from app.config import GROQ_API_KEY
 
 llm = ChatGroq(
